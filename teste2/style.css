@@ -1,0 +1,25 @@
+li{color: rgb(255, 255, 255);}
+h1{font-size: 60px;
+  background-color: rgb(206, 22, 151);
+  border: 2px solid;
+  text-align: center;
+  width: 26%;
+  margin: 0px auto 0px auto;
+  vertical-align: center;  
+  
+  }
+  #jhoncena{
+    text-align: center;
+    font-size: 70px
+    ;
+  }
+body{background-image: url(https://images7.alphacoders.com/864/864929.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+  .Jhoncena{
+    text-align: center;
+  }
+  li:nth-of-type(even){
+    color: blue;
+  }
