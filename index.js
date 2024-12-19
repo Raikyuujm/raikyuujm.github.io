@@ -1,1 +1,0 @@
-let name = "João Miguel";
